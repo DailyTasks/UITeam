@@ -10,3 +10,7 @@ HTML for two advance search pages
     Select category (All, Global, EMEA, Manager, etc)
     Select date or date range
     Select tag
+
+	
+	
+	functions
