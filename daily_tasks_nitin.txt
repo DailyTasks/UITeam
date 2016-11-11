@@ -1,7 +1,7 @@
 Nitin Kalia
 ===========================
 
-09-11-2016 (Thursay)
+10-11-2016 Friday
 -------------------------
 - VMWare project guildlines
 - Drag and Drop for SP team (Discarded)
