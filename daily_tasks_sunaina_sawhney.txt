@@ -1,0 +1,16 @@
+HTML for two advance search pages
+
+1)Calendar Advanced Search (Filters needed)
+
+    Select category (Meeting, Event, Reminder)
+    Select date or date range
+
+2)News Advanced Search (Filters needed)
+
+    Select category (All, Global, EMEA, Manager, etc)
+    Select date or date range
+    Select tag
+
+	
+	
+	functions
