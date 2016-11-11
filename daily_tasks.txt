@@ -11,3 +11,5 @@ Surjeet Singh
 ------------------------
 - Awaiting Results from Regression tests(Chander)
 - Working on Angular - Connecting DB using MYSQL/PHP
+
+- Worked on Molecular Devices site - css modifications
