@@ -1,7 +1,8 @@
 Surjeet Singh
 ===========================
 
-09-11-2016 Thursday
+10-11-2016 Friday
 -------------------------
 - VMWare project guildlines
-- Drag and Drop for SP team (Discarded)
+- Two New Advanced Search Pages (VMWare) 
+- Angulgar JS Session
