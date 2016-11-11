@@ -5,3 +5,9 @@ Surjeet Singh
 -------------------------
 - VMWare project guildlines
 - Drag and Drop for SP team (Discarded)
+
+
+10-11-2016 (Thursday)
+------------------------
+- Awaiting Results from Regression tests(Chander)
+- Working on Angular - Connecting DB using MYSQL/PHP
