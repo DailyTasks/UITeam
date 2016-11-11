@@ -1,0 +1,55 @@
+Phone: +91(172)4155505
+
+System:
+Username: nvish\surjeet.singh
+Pwd: vostro@123
+
+Office 365:
+Url: mail.office365.com
+Email: surjeet.singh@nvish.com
+Pwd: xswEDC$#11
+
+
+Share Point Access Url (Work):
+Url: http://sql2012sp1:31565
+Username: Administrator
+Pwd: Pass@123
+
+NVISH Project Management Solution account Details:
+Url: http://synergy.nvish.com/
+Username: surjeet.singh@nvish.com
+Password: default@2016
+
+
+
+First name: surjeet
+Last name: nvish
+Email surjeet.nvish@hotmail.com
+Pwd: vishVISH
+PIN: 160052
+DOB: Jan 1, 1980
+Mb: 8728041977
+
+URL: http://sp1/SitePages/calendaryear.aspx
+on RDC
+Computer name: NVISH\spsql
+Pwd: Pass@123
+
+
+Github details:
+username: surjeetsingh1
+email: surjeet.singh@nvish.com
+pwd: localData1
+
+
+
+First name: Surjeet 
+Last name: Singh
+Email: surjeet.singh@nvish.com
+pwd: myNvishDB1
+
+
+VMBox
+user: surjeet
+pwd: ohho1
+hint: o
