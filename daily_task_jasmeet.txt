@@ -1,0 +1,3 @@
+Project Name - Grail research: Synchro
+Task :  1. Fix UI issues reported by client/QA on redmine.
+		2. Fix height of tinymce custom plugin
