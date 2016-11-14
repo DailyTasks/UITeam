@@ -5,3 +5,6 @@ From stage to production.
 2) Updating the news ticker on Home page http://hitachimicroclinic.com
 From stage to production.
 Merging the stage code to production files.
+
+
+3) Also working On NVISH SITE some updates are come.
