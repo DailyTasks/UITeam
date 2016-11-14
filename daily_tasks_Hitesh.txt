@@ -1,8 +1,26 @@
 Hitesh Arora
 ===========================
 
-10-11-2016 Friday
+14-11-2016 Monday
 -------------------------
-- VMWare project guildlines
-- Two New Advanced Search Pages (VMWare) 
-- Angulgar JS Session
+Page:-
+https://wwwstage-revamp.hds.com/en-us/services/training-certification/training.html 
+- add link tracking
+
+page:-
+https://wwwstage-revamp.hds.com/en-us/products-solutions/storage/storage-virtualization-operating-system.html
+- panel-specification- specifications --view full specifications"
+-suggestion - panel-specification- specifications -view full specifications"
+
+page:-
+https://wwwstage-revamp.hds.com/de-de/go/digital-transformation/home.html
+- prop14 "dt-de>panel-news insight-entdecken si...-mehr lesen(same hit)
+- prop14 "dt-de>panel-news insight-entdecken si...-mehr lesen(same hit)
+- prop14 "dt-de>panel-news insight-entdecken si...-mehr lesen(same hit)
+
+suggestion- panel-specification- specifications -view full specifications"
+
+page:-
+https://wwwstage-revamp.hds.com/de-de/go/digital-transformation/data-mobility.html
+- prop14 "dt-de>panel-resources--checkliste f...-checkliste a..."
+suggestion - prop14 "dt-de>panel-resources-weiterführende informationen-checkliste f...-checkliste a..."
