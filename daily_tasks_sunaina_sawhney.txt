@@ -1,16 +1,7 @@
-HTML for two advance search pages
+Working on http://hitachimicroclinic.com 
+1) Updateing  the news and event section http://hitachimicroclinic.com/news-events/ ,
+From stage to production.
 
-1)Calendar Advanced Search (Filters needed)
-
-    Select category (Meeting, Event, Reminder)
-    Select date or date range
-
-2)News Advanced Search (Filters needed)
-
-    Select category (All, Global, EMEA, Manager, etc)
-    Select date or date range
-    Select tag
-
-	
-	
-	functions
+2) Updating the news ticker on Home page http://hitachimicroclinic.com
+From stage to production.
+Merging the stage code to production files.
