@@ -1,5 +1,4 @@
-Surjeet Singh 10-11-2016 Friday
+Surjeet Singh 14-11-2016 Monday
 ===============================
-- VMWare project guildlines (2 hrs)
-- Two New Advanced Search Pages - VMWare (5 hrs)
-- Angulgar JS Session (1 hr)
+- Angulgar JS Session Uploading on Github (00:00 hr)
+- Manageing Team work - NVish (00:00 hr)
