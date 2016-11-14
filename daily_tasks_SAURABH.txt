@@ -1,9 +1,6 @@
 Saurabh
 ===========================
 
-11-11-2016 Friday
+11-14-2016 Monday
 -------------------------
-- VMWare Sharepoint 
-1. Story Form overlay design
-2. UI fixes
-- Angular JS Session
+- VMWare Sharepoint fixes
