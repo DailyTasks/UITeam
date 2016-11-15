@@ -1,2 +1,5 @@
-14-11-2016 Monday
+15-11-2016 Monday
 ===============================
+* Worked on VMWare Intranet Home page fixes.
+* Worked on VMWare Intranet Spotlight list page fixes.
+* Attended team training class.
