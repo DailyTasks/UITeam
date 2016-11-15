@@ -1,2 +1,5 @@
 Project Name - Grail research: Synchro
-Task :  1. Fix UI issues reported by client/QA on redmine.
+Task :  1. Implement new functionality for cost detail component.
+		2. UI fixes as reported.
+		3. Implement new fucntionality for research agency component.
+		
