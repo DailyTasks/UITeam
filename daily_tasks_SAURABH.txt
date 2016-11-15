@@ -1,6 +1,6 @@
 Saurabh
 ===========================
 
-11-14-2016 Monday
+11-15-2016 Tuesday
 -------------------------
-- VMWare Sharepoint fixes
+- VMWare Sharepoint fixes as per client's feedback
