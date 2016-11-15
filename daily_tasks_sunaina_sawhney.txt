@@ -1,10 +1,14 @@
-Working on http://hitachimicroclinic.com 
-1) Updateing  the news and event section http://hitachimicroclinic.com/news-events/ ,
-From stage to production.
+A)working on hitachi advance search option
 
-2) Updating the news ticker on Home page http://hitachimicroclinic.com
-From stage to production.
-Merging the stage code to production files.
+B.       Create 3 new activities for VSD-6662(include Homepage, vCloud Air page)
+2.       Please place dummy content in activities created for VSD-6278
+a.       TEST | vSAN Offer 3 – 6278-  UK locale
+b.       TEST | vSAN Offer 4 – 6278-  UK locale
+c.       TEST | vSAN Offer 5 – 6278-  UK locale
+d.       TEST | vSAN Offer 6 – 6278-  UK locale
 
 
-3) Also working On NVISH SITE some updates are come.
+c)TEST | vSAN Offer 3 – 6278-  UK locale
+TEST | vSAN Offer 4 – 6278-  UK locale
+TEST | vSAN Offer 5 – 6278-  UK locale
+TEST | vSAN Offer 6 – 6278-  UK locale
