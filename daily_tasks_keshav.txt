@@ -1,5 +1,16 @@
-15-11-2016 Monday
+15-11-2016 Tuesday
 ===============================
 * Worked on VMWare Intranet Home page fixes.
 * Worked on VMWare Intranet Spotlight list page fixes.
+* Attended team training class.
+
+
+
+
+16-11-2016 Wednesday
+================================
+* Worked on VMWare Intranet Spotlight detail page fixes.
+* Sync all VMWare Intranet updates done on QA server to Dev server.
+* Updated VMWare Intranet popup as per discussion with Rohit.
+* Discussion with team regarding VMWare Intranet workflow.
 * Attended team training class.
