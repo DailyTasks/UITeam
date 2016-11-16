@@ -14,3 +14,8 @@
 * Updated VMWare Intranet popup as per discussion with Rohit.
 * Discussion with team regarding VMWare Intranet workflow.
 * Attended team training class.
+
+
+#Scheduled task for 17-11-2016 Thrusday
+========================================
+* VMWare Intranet megamenu fixes fixes.
