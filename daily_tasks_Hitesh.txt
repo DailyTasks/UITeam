@@ -1,6 +1,7 @@
 Hitesh Arora
 ===========================
 
-15-11-2016 Tuesday
+16-11-2016 Tuesday
 -------------------------
-Working on HDS tracking eveng issues
+Worked on HDS double hit issue
+Worked on HDS truncating text issue
