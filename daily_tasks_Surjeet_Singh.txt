@@ -1,4 +1,9 @@
-Surjeet Singh 14-11-2016 Monday
-===============================
-- Angulgar JS Session Uploading on Github (00:00 hr)
-- Manageing Team work - NVish (00:00 hr)
+Surjeet Singh
+===========================
+
+16-11-2016 Wednesday
+-------------------------
+- Project Planing for vmware project
+- 2 interviews
+- Angulgar JS Session
+- Grunt Session
