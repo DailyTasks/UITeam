@@ -1,9 +1,8 @@
 Surjeet Singh
 ===========================
 
-16-11-2016 Wednesday
+17-11-2016 Wednesday
 -------------------------
-- Project Planing for vmware project
-- 2 interviews
-- Angulgar JS Session
-- Grunt Session
+- Project: Hitech India Project
+- Customer Portal: NVish
+- Angulgar JS Session : Advanced Filters
