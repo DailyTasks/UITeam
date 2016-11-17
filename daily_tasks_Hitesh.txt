@@ -1,7 +1,7 @@
 Hitesh Arora
 ===========================
 
-16-11-2016 Tuesday
+17-11-2016 Tuesday
 -------------------------
-Worked on HDS double hit issue
+Worked on HDS Issue list related to panel name issue
 Worked on HDS truncating text issue
