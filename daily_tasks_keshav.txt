@@ -19,3 +19,5 @@
 #Scheduled task for 17-11-2016 Thrusday
 ========================================
 * VMWare Intranet megamenu fixes fixes.
+* Calender popup fixes.
+* UI changes on home page.
