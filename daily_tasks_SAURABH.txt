@@ -1,6 +1,6 @@
 Saurabh
 ===========================
-
-11-15-2016 Tuesday
+11-17-2016 Thursday
 -------------------------
-- VMWare Sharepoint fixes as per client's feedback
+- VMWare Sharepoint home page fixes
+- Angular Js session
