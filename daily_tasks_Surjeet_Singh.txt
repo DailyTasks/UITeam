@@ -1,8 +1,8 @@
 Surjeet Singh
 ===========================
 
-17-11-2016 Wednesday
+18-11-2016 Friday
 -------------------------
-- Project: Hitech India Project
-- Customer Portal: NVish
-- Angulgar JS Session : Advanced Filters
+- Project: SCM (issues)
+- Customer Portal: NVish (new page)
+- Angulgar JS Session: ES5 features and NG Test
