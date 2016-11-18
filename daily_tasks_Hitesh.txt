@@ -1,7 +1,7 @@
 Hitesh Arora
 ===========================
 
-17-11-2016 Tuesday
+18-11-2016 Tuesday
 -------------------------
-Worked on HDS Issue list related to panel name issue
-Worked on HDS truncating text issue
+Worked on HDS Issue 
+Worked on pantaho project to create a page
