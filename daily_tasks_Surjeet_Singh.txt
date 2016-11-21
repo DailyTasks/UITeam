@@ -1,8 +1,8 @@
 Surjeet Singh
 ===========================
 
-18-11-2016 Friday
+21-11-2016 Monday
 -------------------------
-- Project: SCM (issues)
-- Customer Portal: NVish (new page)
-- Angulgar JS Session: ES5 features and NG Test
+- Project: SCM issues (Bug fixing) assigned to Kali Kiran (30 hrs)
+- VMWare Project: UI Modification (revamping)
+- Hitachi India Projet (UI development) - assigned to Jasmeet 
