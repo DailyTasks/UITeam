@@ -1,5 +1,16 @@
 Project Name - Grail research: Synchro
-Task :  1. Implement new functionality for cost detail component.
-		2. UI fixes as reported.
-		3. Implement new fucntionality for research agency component.
+Task :  1. ui changes.
+		2. ui for new screen - Search Dashboard.
+
+Project Name - Hitachi India
+Task :  1. Create pages under set 1 of excel sheet -
+ -Rail
+ -Power
+ -Information Management & Social Innovation Solutions
+ -IT Services & Solutions
+ -Software Solutions
+ -GIS Solutions
+
+
+		
 		
