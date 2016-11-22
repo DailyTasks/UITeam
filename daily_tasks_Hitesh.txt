@@ -1,7 +1,7 @@
 Hitesh Arora
 ===========================
 
-18-11-2016 Tuesday
+21-11-2016 Tuesday
 -------------------------
-Worked on HDS Issue 
-Worked on pantaho project to create a page
+-Worked on HDS Issues
+-Fixed pantaho error page header and footer issue
