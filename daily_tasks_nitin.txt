@@ -1,5 +1,6 @@
-Nitin Kalia
-===========================
+Kali Kiran
+===========
+
 
 10-11-2016 Friday
 -------------------------
@@ -13,3 +14,22 @@ Nitin Kalia
 - Working on Angular - Connecting DB using MYSQL/PHP
 
 - Worked on Molecular Devices site - css modifications
+
+
+22-11-2016
+----------
+
+Project Name - Hitacvhi SCM 
+---------------------------
+ 
+Task :  1. Need to Discuss, the development issue, we found on the tool
+
+Task :  2. Performing Unit Testing on the tool (for the reported issues/impact areas)
+
+Task :  3. Awaiting the test results 
+
+
+General Tasks
+-------------
+
+Task 1: Working on the given assignment to perform multiple file uploads
