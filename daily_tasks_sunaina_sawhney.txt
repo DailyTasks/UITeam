@@ -1,8 +1,2 @@
-1)Work on VSD-6278  (WOrked on id in some pages)
-·         TEST | vSAN Offer 1 – 6278- UK locale
-·         TEST | vSAN Offer 2 – 6278- UK locale
-·         TEST | vSAN Offer 3 – 6278- UK locale
-·         TEST | vSAN Offer 4 – 6278- UK locale
-·         TEST | vSAN Offer 5 – 6278- UK locale
-·         TEST | vSAN Offer 6 – 6278- UK locale
+worked on custom dialogbox and select filed 
 
