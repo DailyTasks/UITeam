@@ -1,7 +1,7 @@
 Hitesh Arora
 ===========================
 
-21-11-2016 Tuesday
+22-11-2016 Tuesday
 -------------------------
 -Worked on HDS Issues
--Fixed pantaho error page header and footer issue
+-Worked on responsive layout for pantaho html page
