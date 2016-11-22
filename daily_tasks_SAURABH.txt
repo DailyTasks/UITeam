@@ -1,6 +1,6 @@
 Saurabh
 ===========================
-11-21-2016 Monday
+11-22-2016 Tuesday
 -------------------------
-- VMWare Sharepoint Take a Survey popup ui fixes
-- Angular Js session
+- VMWare Sharepoint updates
+- Angular JS session
