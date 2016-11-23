@@ -1,8 +1,8 @@
 Surjeet Singh
 ===========================
 
-21-11-2016 Monday
+22-11-2016 Tuesday
 -------------------------
-- Project: SCM issues (Bug fixing) assigned to Kali Kiran (30 hrs)
-- VMWare Project: UI Modification (revamping)
-- Hitachi India Projet (UI development) - assigned to Jasmeet 
+- Project: 8 SCM issues resolued, explained to Kusum
+- SCM #7 : on Pause
+- SCM #1 : need to find Mac Safari Issue
