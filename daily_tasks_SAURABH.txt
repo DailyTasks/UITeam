@@ -1,5 +1,6 @@
 Saurabh
 ===========================
-11-22-2016 Tuesday
+11-23-2016 Wednesday
 -------------------------
-- VMWare Sharepoint Main nav and responsive ui updates
+- VMWare Sharepoint Main Menu fixes
+- Team meeting
