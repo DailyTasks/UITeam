@@ -1,7 +1,7 @@
 Surjeet Singh
 ===========================
 
-22-11-2016 Tuesday
+23-11-2016 Wednesday
 -------------------------
 - Project: 8 SCM issues resolued, explained to Kusum
 - SCM #7 : on Pause
