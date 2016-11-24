@@ -1,8 +1,7 @@
 Surjeet Singh
 ===========================
 
-23-11-2016 Wednesday
+24-11-2016 Thursday
 -------------------------
-- Project: 8 SCM issues resolued, explained to Kusum
-- SCM #7 : on Pause
-- SCM #1 : need to find Mac Safari Issue
+- Project: SCM Issue #1 (explained and over for now)
+- Helping Pentaho project team members
