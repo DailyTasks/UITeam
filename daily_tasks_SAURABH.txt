@@ -1,6 +1,7 @@
 Saurabh
 ===========================
-11-23-2016 Wednesday
+11-23-2016 Thursday
 -------------------------
-- VMWare Sharepoint Main Menu fixes
+- VMWare Sharepoint fixes
 - Team meeting
+- File selection application
