@@ -1,7 +1,9 @@
 Surjeet Singh
 ===========================
 
-24-11-2016 Thursday
+25-11-2016 Friday
 -------------------------
-- Project: SCM Issue #1 (explained and over for now)
-- Helping Pentaho project team members
+- Project: All told SCM topics/issues - rectified/resolued/fixed (OVER)
+- Planning for VMWare rewamping
+- JS Session
+- Hitachi India Portal
