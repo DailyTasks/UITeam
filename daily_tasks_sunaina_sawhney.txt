@@ -1,17 +1,8 @@
 Sunaina Sawhney
-================
-TEST | Testing Homepage issue - UK-1
-TEST | Testing Homepage issue - UK-2
-TEST | Testing Homepage issue - UK-3
-TEST | Testing Homepage issue - UK-4
-TEST | Testing Homepage issue - UK-5
-TEST | Testing Homepage issue - UK-6
-TEST | Testing Homepage issue - UK-7
-TEST | Testing Homepage issue - UK-8
-
-23-11-2016 Tuesday
+===========================
+11-28-2016 Monday
 -------------------------
-
-worked on custom dialogbox and select filed 
-and Study HTML 5 And css
-
+- Team meeting
+- Nvish Site Work
+- JS Session
+- Test/Project
