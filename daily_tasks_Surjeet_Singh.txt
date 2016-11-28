@@ -1,9 +1,8 @@
 Surjeet Singh
 ===========================
 
-25-11-2016 Friday
+28-11-2016 Monday
 -------------------------
-- Project: All told SCM topics/issues - rectified/resolued/fixed (OVER)
-- Planning for VMWare rewamping
+- Project: Hitachi Micro Clinic
+- SCM Issue (#1 for Mac Safari) reopened
 - JS Session
-- Hitachi India Portal
