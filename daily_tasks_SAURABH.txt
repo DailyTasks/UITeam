@@ -1,7 +1,8 @@
 Saurabh
 ===========================
-11-28-2016 Monday
+11-29-2016 Tuesday
 -------------------------
 - Team meeting
 - VMWare Sharepoint fixes
+- Molecular site fixes
 - JS Session
