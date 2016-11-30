@@ -1,9 +1,9 @@
 Surjeet Singh
 ===========================
 
-29-11-2016 Tuesday
+30-11-2016 Wednesday
 -------------------------
-- Project: Hitachi Micro Clinic
-- SCM Issue (#1 for Mac Safari) reopened
-- SCM other old issues reoped again, need rectifications
+- SCM Issue (#1 for Mac Safari) research
+- SCM resolved issues need to be out of the issues list now
 - JS Session
+
