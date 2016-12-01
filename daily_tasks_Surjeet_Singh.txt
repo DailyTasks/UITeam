@@ -1,9 +1,10 @@
 Surjeet Singh
 ===========================
 
-30-11-2016 Wednesday
+01-12-2016 Thursday
 -------------------------
-- SCM Issue (#1 for Mac Safari) research
-- SCM resolved issues need to be out of the issues list now
+- VMWare developement
 - JS Session
+- Molecular devices
+- Hitachi USA Portal
 
