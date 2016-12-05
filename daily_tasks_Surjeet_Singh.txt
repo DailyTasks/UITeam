@@ -1,9 +1,9 @@
 Surjeet Singh
 ===========================
 
-02-12-2016 Friday
+05-12-2016 Monday
 -------------------------
-- VMWare developement (Calender rewamping)
+- VMWare developement
 - JS Session
 - Hitachi India Portal
 
