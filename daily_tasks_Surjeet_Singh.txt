@@ -1,9 +1,8 @@
 Surjeet Singh
 ===========================
 
-05-12-2016 Monday
+06-12-2016 Tuesday
 -------------------------
 - VMWare developement
-- JS Session
 - Hitachi India Portal
-
+- SCM issues
