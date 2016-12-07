@@ -1,8 +1,6 @@
 Saurabh
 ===========================
-12-2-2016 Friday
+12-7-2016 Wednesday
 -------------------------
 - Daily Team meeting
 - VMWare Sharepoint fixes
-- JS Session
-- Logmatrix fixes
