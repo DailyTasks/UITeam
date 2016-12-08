@@ -1,8 +1,8 @@
 Surjeet Singh
 ===========================
 
-07-12-2016 Wednesday
+08-12-2016 Thursday
 -------------------------
 - VMWare developement
 - Hitachi India Portal
-- SCM issues (Re-aligned again)
+- Resolving SCM issues
